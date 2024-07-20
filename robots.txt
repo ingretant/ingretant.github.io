@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingretant.github.io/sitemap
+Sitemap: https://ingretant.github.io/app/sitemap
+Sitemap: https://ingretant.github.io/assets/sitemap
+Sitemap: https://ingretant.github.io/css/sitemap
+Sitemap: https://ingretant.github.io/includes/sitemap
+Sitemap: https://ingretant.github.io/item/sitemap
+Sitemap: https://ingretant.github.io/src/sitemap
